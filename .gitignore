@@ -48,3 +48,8 @@ pid.log
 # 支付证书相关移除
 paicoding-web/src/main/resources/cert
 /.mvn
+
+# 本地配置文件
+local.env
+application-local.yml
+**/application-local.yml
